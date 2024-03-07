@@ -1,4 +1,4 @@
-Aplikasi ini harus dijalankan di Powershell
+# Aplikasi ini harus dijalankan di Powershell
 
 cd Downloads (atau dimanapun tempat file yang baru anda unduh)
 python -m venv .venv
@@ -9,7 +9,7 @@ python -m venv .venv
 # macOS and Linux
 source .venv/bin/activate
 
-**run**
+# run 
 streamlit pad.py
-bila tidak bisa
+**bila tidak bisa**
 python -m streamlit run pad.py
